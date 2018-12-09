@@ -7,7 +7,30 @@
 		<key>sngapp02.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>5</integer>
+		</dict>
+		<key>sngapp02.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>5494550D216AD3D60063D5DD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>54945523216AD3D70063D5DD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5494552E216AD3D70063D5DD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:sngapp02.xcodeproj">
+      location = "self:/Users/jlp/Desktop/Vodagoods/sngapp02.xcodeproj">
    </FileRef>
 </Workspace>

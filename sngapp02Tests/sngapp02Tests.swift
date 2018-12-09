@@ -7,7 +7,8 @@
 //
 
 import XCTest
-@testable import sngapp02
+@testable import Vodagoods
+
 
 class sngapp02Tests: XCTestCase {
 
